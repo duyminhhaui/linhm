@@ -1,0 +1,166 @@
+* {
+    width: 100%;
+}
+
+#tieu-de {
+    font-size: 50px;
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tieu-de_per {
+    font-size: 100px;
+    color: rgb(247, 0, 255);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tieu-de2 {
+    font-size: 65px;
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+#tieu-de3 {
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+#data {
+    font-size: 35px;
+    color: rgb(3, 19, 243);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#tablelabel {
+    margin: center;
+    color: royalblue;
+    font-size: 20pt;
+}
+
+#text {
+    color: black;
+    font-size: 40pt;
+}
+
+#table,
+th,
+td {
+    width: 2500px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1c1;
+    grid-template-columns: 10% 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+}
+
+#Set_Time_Bom {
+    width: 200px;
+    height: 70px;
+}
+
+#Btn_Set_Time_Bom {
+    margin-left: 5px;
+    width: 100px;
+    height: 50px;
+}
+
+#Btn_Bool {
+    vertical-align: middle;
+}
+
+#Btn_Bool button {
+    vertical-align: middle;
+    width: 100px;
+    height: 70px;
+}
+
+#SVG_Start {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 80px;
+}
+
+#SVG_Stop {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+#SVG_Automanu {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+#SVG_Fault {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+
+#SVG_Simulation {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+
+#Btn_Start,
+#Btn_Stop,
+#Btn_Auto,
+#Btn_Manu,
+#Btn_Reset,
+#Btn_Simuon,
+#Btn_Simuoff {
+    width: 500px;
+    height: 150px;
+}
+
+#background {
+    background-image: url(https://tapchicongthuong.vn/images/20/2/16/truong-dai-hoc-cong-nghiep-ha-noi.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#background_per {
+    background-image: url(https://allimages.sgp1.digitaloceanspaces.com/anhdep247net/2021/12/1639677595_28_Top-65-Hinh-Nen-Noel-Giang-Sinh-Dep-Lung-Linh.gif);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#table2,
+th,
+td {
+    width: 200px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    grid-template-columns: 10% 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+}
+
+#text_per {
+    color: rgb(67, 228, 102);
+    font-size: 30pt;
+}
